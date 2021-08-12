@@ -1,0 +1,5 @@
+#in our .gitignore file 
+
+config.env
+node_modules
+.DS_Store
